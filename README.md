@@ -1,5 +1,5 @@
 ***Disclaimer: Me being me, I'll keep on editing this readme page as I'll gain more and more insights on foundational Reinforcement learning, Q learning and frozenlake is best way to start with foundational RL, hence the readers must expect this doc to be dynamic.***
-<p align="right"><em>Regards,<br>Aditya</em></p>
+<p align="right"><em>~~Regards    ,<br>Aditya   </em></p>
 
 ## Abstract:
 Being a skeptical learner, Reinforcement learning has always troubled me. It never made sense to me because I wasn't learning it the right way.
